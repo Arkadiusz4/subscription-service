@@ -22,3 +22,4 @@ go.work
 
 # Environment folders
 .idea
+db-data/
