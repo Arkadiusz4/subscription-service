@@ -23,3 +23,6 @@ go.work
 # Environment folders
 .idea
 db-data/
+
+# Folders & files, which needn't to be pushed
+myapp
